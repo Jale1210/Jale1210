@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Jale1210
 - 💻 I’m interested in programming
-- 👩‍💻 I’m currently studying in IT STEP Academy 
 - 🤝 I’m looking to collaborate on GitHub
 
 <!---
