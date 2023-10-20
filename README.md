@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jale1210
-- 💻 I’m interested in programming
+- 💻 I’m a FrontEnd developer
 - 🤝 I’m looking to collaborate on GitHub
 
 <!---
